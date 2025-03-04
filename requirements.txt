@@ -1,0 +1,1 @@
+requests beautifulsoup4 requests pymongo jupyter pandas numpy wrapt lxml pypandoc plotly bs4 openai pymongo tqdm matplotlib statsmodels selenium webdriver_manager xlsxwriter ta-lib yfinance scikit-learn streamlit
